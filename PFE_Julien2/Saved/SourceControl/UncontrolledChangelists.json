@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/sound/NewSoundCue.uasset",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/sound/generalAtenuation.uasset",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/Julien_blueprints.uasset",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/D/3E/RA6RTWPE6XXT3GYHP2TSTA.uasset",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/sound/themePrincipal.uasset",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/sound/SplineAudio/BPSplineAudio.uasset",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/Museum/MuseumMap.umap",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/SciFiRoomsCorridors/Maps/Demonstration1.umap",
+				"F:/CEGEP/ProjetFinEtudes/PremierTest/PFE_Julien/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/O1/58IUWU95HNZQT9E1N63RZI.uasset"
+			]
+		}
+	]
+}
