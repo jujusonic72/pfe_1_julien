@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ExpositionSonore.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ExpositionSonore.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ExpositionSonoreEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ExpositionSonore">
+      <UniqueIdentifier>{746A1E62-7BF7-31F7-931B-6CA05598E6DD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ExpositionSonore\ExpositionSonore.Build.cs">
+      <Filter>Source\ExpositionSonore</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ExpositionSonore\ExpositionSonore.cpp">
+      <Filter>Source\ExpositionSonore</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ExpositionSonore\ExpositionSonore.h">
+      <Filter>Source\ExpositionSonore</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ExpositionSonore\ExpositionSonoreCharacter.cpp">
+      <Filter>Source\ExpositionSonore</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ExpositionSonore\ExpositionSonoreCharacter.h">
+      <Filter>Source\ExpositionSonore</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ExpositionSonore\ExpositionSonoreGameMode.cpp">
+      <Filter>Source\ExpositionSonore</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ExpositionSonore\ExpositionSonoreGameMode.h">
+      <Filter>Source\ExpositionSonore</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ExpositionSonore\ExpositionSonoreProjectile.cpp">
+      <Filter>Source\ExpositionSonore</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ExpositionSonore\ExpositionSonoreProjectile.h">
+      <Filter>Source\ExpositionSonore</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ExpositionSonore\TP_PickUpComponent.cpp">
+      <Filter>Source\ExpositionSonore</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ExpositionSonore\TP_PickUpComponent.h">
+      <Filter>Source\ExpositionSonore</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ExpositionSonore\TP_WeaponComponent.cpp">
+      <Filter>Source\ExpositionSonore</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ExpositionSonore\TP_WeaponComponent.h">
+      <Filter>Source\ExpositionSonore</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

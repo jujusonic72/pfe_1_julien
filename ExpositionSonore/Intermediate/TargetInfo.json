@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ExpositionSonore",
+			"Path": "C:\\Users\\jpoir\\Desktop\\Collège\\TP1-Fin\\pfe_1_julien\\ExpositionSonore\\Source\\ExpositionSonore.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ExpositionSonoreEditor",
+			"Path": "C:\\Users\\jpoir\\Desktop\\Collège\\TP1-Fin\\pfe_1_julien\\ExpositionSonore\\Source\\ExpositionSonoreEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
